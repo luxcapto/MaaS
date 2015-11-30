@@ -1,4 +1,4 @@
 PATH=/usr/local/bin:/usr/local/sbin/:bin/usr/bin:/sbin:/usr/sbin
 
-* * * * *  sh changeWallpaper.sh >> /home/luxcapto/wallpaper-cron.log # JOB_ID_1
+* * * * *  sh changeWallpaper.sh >> /home/your-username-here/wallpaper-cron.log # JOB_ID_1
 
