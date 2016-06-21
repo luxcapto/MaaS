@@ -1,4 +1,4 @@
-# maas
+# MaaS
 Memes as a Service
 
 Dank memes delivered to your Linux desktop. Currently tested with GNOME.
